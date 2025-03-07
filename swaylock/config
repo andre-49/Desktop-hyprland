@@ -1,0 +1,46 @@
+### SWAYLOCK CONFIG ###
+##
+#
+
+ignore-empty-password
+show-failed-attempts
+font="Roboto Mono Medium"
+
+clock
+timestr=%R
+datestr=%a, %e of %B
+# image to use
+image=~/.wallpapers/current.png
+#screenshot
+fade-in=0
+effect-pixelate=5
+#effect-blur=20x6
+#effect-greyscale
+indicator
+indicator-radius=200
+indicator-thickness=20
+
+grace=2
+grace-no-mouse
+grace-no-touch
+# Colors
+line-color=1f1d2e
+ring-color=191724
+inside-color=1f1d2e
+key-hl-color=9ccfd8
+separator-color=00000000
+text-color=e0def4
+text-caps-lock-color=""
+line-ver-color=31748f
+ring-ver-color=31748f
+inside-ver-color=1f1d2e
+text-ver-color=31748f
+ring-wrong-color=eb6f92
+text-wrong-color=eb6f92
+inside-wrong-color=1f1d2e
+inside-clear-color=1f1d2e
+text-clear-color=e0def4
+ring-clear-color=9ccfd8
+line-clear-color=1f1d2e
+line-wrong-color=1f1d2e
+bs-hl-color=31748f
